@@ -1,6 +1,6 @@
 # :file_folder: chrt-v1 :bar_chart: 
 
-- This repo has excerpts from chrt-v1, a retired React SPA (Single-Page Application) that was written by me ([aaronmaxcarver](https://github.com/aaronmaxcarver)) and used at [chrt.com](https://chrt.com)
+- This repo has excerpts from chrt-v1, a retired React SPA that was written by me ([aaronmaxcarver](https://github.com/aaronmaxcarver)) and used at [chrt.com](https://chrt.com)
 - An updated version, chrt-v2 ([chrt-vite](https://github.com/chrtHub/chrt-vite)), is live at [chrt.com](https://chrt.com)
 
 ### (1) Auth notes

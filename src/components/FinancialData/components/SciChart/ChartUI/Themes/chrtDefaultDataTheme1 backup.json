@@ -1,0 +1,104 @@
+{
+  "ohlcSeriesChart1": {
+    "isVisible": true,
+    "opacity": 1,
+    "brushUp": "#50ff50",
+    "brushDown": "#ff5050",
+    "strokeUp": "#50ff50",
+    "strokeDown": "#ff5050",
+    "strokeThickness": 1,
+    "dataPointWidth": 0.5
+  },
+  "ema12SeriesChart1": {
+    "isVisible": false,
+    "opacity": 1,
+    "stroke": "#FF6600FF",
+    "strokeThickness": 2,
+    "strokeDashArray": []
+  },
+  "abandsLowerSeriesChart1": {
+    "isVisible": false,
+    "opacity": 1,
+    "stroke": "#008000FF",
+    "strokeThickness": 2,
+    "strokeDashArray": []
+  },
+  "abandsMiddleSeriesChart1": {
+    "isVisible": false,
+    "opacity": 1,
+    "stroke": "#008000FF",
+    "strokeThickness": 2,
+    "strokeDashArray": []
+  },
+  "abandsUpperSeriesChart1": {
+    "isVisible": false,
+    "opacity": 1,
+    "stroke": "#008000FF",
+    "strokeThickness": 2,
+    "strokeDashArray": []
+  },
+  "volumeSeriesChart2": {
+    "isVisible": true,
+    "opacity": 1,
+    "dataPointWidth": 0.5,
+    "strokeThickness": 1
+  },
+  "macdHistogramSeriesChart3": {
+    "isVisible": false,
+    "opacity": 1,
+    "above0": "#50FF50B2",
+    "below0": "#FF5050B2",
+    "strokeThickness": 0,
+    "dataPointWidth": 0.5
+  },
+  "macdMACDSeriesChart3": {
+    "isVisible": false,
+    "opacity": 1,
+    "stroke": "#FF5050FF",
+    "strokeThickness": 2,
+    "strokeDashArray": []
+  },
+  "macdSignalSeriesChart3": {
+    "isVisible": false,
+    "opacity": 1,
+    "stroke": "#0000FFFF",
+    "strokeThickness": 2,
+    "strokeDashArray": []
+  },
+  "rsiSeriesChart3": {
+    "isVisible": false,
+    "opacity": 1,
+    "stroke": "#FFFFFFFF",
+    "strokeThickness": 2,
+    "strokeDashArray": []
+  },
+  "macdHistogramSeriesChart4": {
+    "isVisible": false,
+    "opacity": 1,
+    "above0": "#50FF50B2",
+    "below0": "#FF5050B2",
+    "strokeThickness": 0,
+    "dataPointWidth": 0.5
+  },
+  "macdMACDSeriesChart4": {
+    "isVisible": false,
+    "opacity": 1,
+    "stroke": "#FF5050FF",
+    "strokeThickness": 2,
+    "strokeDashArray": []
+  },
+  "macdSignalSeriesChart4": {
+    "isVisible": false,
+    "opacity": 1,
+    "stroke": "#0000FFFF",
+    "strokeThickness": 2,
+    "strokeDashArray": []
+  },
+  "rsiSeriesChart4": {
+    "isVisible": false,
+    "opacity": 1,
+    "stroke": "#FFFFFFFF",
+    "strokeThickness": 2,
+    "strokeDashArray": []
+  }
+}

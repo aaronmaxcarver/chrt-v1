@@ -10,7 +10,7 @@
 
 ### (2) Financial Data notes
 
-- Pricing and indicators charts<br/>
+- Multiple synchronized and resizable pricing and indicators charts<br/>
 ![charts](https://s3.amazonaws.com/chrt.com/charts.png)
 
 - Theme menus<br/>
